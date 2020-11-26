@@ -1,0 +1,13 @@
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+/ido.last
+*.elc
+auto-save-list
+tramp
+.\#*
+/elpa/
+/url/
+/eshell/history
+/eshell/lastdir
